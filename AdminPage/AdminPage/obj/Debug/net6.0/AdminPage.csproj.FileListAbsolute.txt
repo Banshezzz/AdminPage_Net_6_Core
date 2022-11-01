@@ -50,3 +50,9 @@ C:\Users\Administrator\Documents\GitHub\AdminPage_Net_6_Core\AdminPage\AdminPage
 C:\Users\Administrator\Documents\GitHub\AdminPage_Net_6_Core\AdminPage\AdminPage\obj\Debug\net6.0\AdminPage.pdb
 C:\Users\Administrator\Documents\GitHub\AdminPage_Net_6_Core\AdminPage\AdminPage\obj\Debug\net6.0\AdminPage.genruntimeconfig.cache
 C:\Users\Administrator\Documents\GitHub\AdminPage_Net_6_Core\AdminPage\AdminPage\obj\Debug\net6.0\ref\AdminPage.dll
+C:\Users\Administrator\Documents\GitHub\AdminPage_Net_6_Core\AdminPage\AdminPage\bin\Debug\net6.0\DotNetEd.CoreAdmin.dll
+C:\Users\Administrator\Documents\GitHub\AdminPage_Net_6_Core\AdminPage\AdminPage\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Documents\GitHub\AdminPage_Net_6_Core\AdminPage\AdminPage\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Documents\GitHub\AdminPage_Net_6_Core\AdminPage\AdminPage\bin\Debug\net6.0\Mvc.Grid.Core.dll
+C:\Users\Administrator\Documents\GitHub\AdminPage_Net_6_Core\AdminPage\AdminPage\obj\Debug\net6.0\AdminPage.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\AdminPage_Net_6_Core\AdminPage\AdminPage\obj\Debug\net6.0\AdminPage.csproj.CopyComplete
